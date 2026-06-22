@@ -1,0 +1,61 @@
+# WordPress Core
+
+wp-config.php
+
+# Uploads
+
+wp-content/uploads/
+
+# Cache
+
+wp-content/cache/
+wp-content/upgrade/
+
+# Backup Files
+
+*.sql
+*.sql.gz
+*.bak
+*.backup
+
+# Logs
+
+*.log
+error_log
+
+# Environment Files
+
+.env
+.env.local
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Composer
+
+vendor/
+
+# Node
+
+node_modules/
+
+# Temporary Files
+
+tmp/
+temp/
+
+# Apache
+
+.htpasswd
+
+# Cockpit / System
+
+*.pid
+*.sock
